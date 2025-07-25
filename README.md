@@ -49,8 +49,8 @@ The key features of the Data Science Multi-Agent include:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/google/adk-samples.git
-    cd adk-samples/python/agents/data-science
+    git clone (https://github.com/snjugunanjenga/data-science-ai-agent.git)
+    cd data-science
     ```
 
 2.  **Install Dependencies with Poetry:**
